@@ -1,5 +1,5 @@
 - 👋 **Hi**, I’m *Vanessa*
-- 👩‍💻 I’m interested in **Frontend Development**
+- 👩‍💻 Currently focusing on **Frontend Development**
 - 🌱 I’m currently learning **Advanced CSS**, **Javascript**, and **React** 
 - 🤜🤛 I’m looking to collaborate on any cool projects that contribute to my **learning** and **growth** as a developer and designer
 

@@ -1,3 +1,6 @@
+![git-hub-header](https://github.com/vanessa-ayer/vanessa-ayer/assets/135392710/3caed7fb-260f-4d78-8f02-d3ac5ee26990)
+
+
 - 👋 **Hi**, I’m *Vanessa*
 - 👩‍💻 Currently focusing on **Frontend Development**
 - 🌱 I’m currently learning **Advanced CSS**, **Javascript**, and **React** 

@@ -8,13 +8,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessa-ayer&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=1020)](https://git.io/streak-stats)
 
-
+<div align="center">
 
 
 You are visitor 
 | :-: | 
-| ![Visitor Count](https://profile-counter.glitch.me/{vanessa-ayer}/count.svg) |
+| ![Visitor Count](https://profile-counter.glitch.me/{vanessa-ayer}/count.svg) | 
 
+</div>
 <!---
 vanessa-ayer/vanessa-ayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

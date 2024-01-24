@@ -2,7 +2,7 @@
 
 
 - 👋 **Hi**, I’m *Vanessa*
-- 👩‍💻 Currently focusing on **Frontend Development**
+- 👩‍💻 Focusing on **Frontend Development** with Fullstack Development in my future 
 - 🌱 I’m currently learning **Advanced CSS**, **Accessibility**, **Javascript**, and **React** 
 - 🤜🤛 I’m looking to build and collaborate on any cool projects that contribute to my **learning** and **growth** as a developer and designer
 

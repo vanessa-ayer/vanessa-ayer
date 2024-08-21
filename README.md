@@ -2,7 +2,7 @@
 
 
 - 👋 **Hi**, I’m *Vanessa*
-- 👩‍💻 Focusing on **Python**, **Game Development** and **Backend Development**
+- 👩‍💻 Focusing on **Python**, **Game Development**, and **Backend Development**
 - 🌱 Currently focusing on **Python** 
 - 🤜🤛 I’m looking to build and collaborate on any cool projects that contribute to my **learning** and **growth** as a developer
 

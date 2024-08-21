@@ -2,8 +2,8 @@
 
 
 - 👋 **Hi**, I’m *Vanessa*
-- 👩‍💻 Focusing on **Frontend Developement** and **Python**
-- 🌱 Learning **Javascript**, **React**, **Accessbility**, **Python**, and **Data Analysis**
+- 👩‍💻 Focusing on **Python**, **Game Development** and **Backend Development**
+- 🌱 Currently focusing on **Python** 
 - 🤜🤛 I’m looking to build and collaborate on any cool projects that contribute to my **learning** and **growth** as a developer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessa-ayer&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=1020)](https://git.io/streak-stats)

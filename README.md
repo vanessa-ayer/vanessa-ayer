@@ -2,7 +2,7 @@
 
 
 - 👋 **Hi**, I’m *Vanessa*
-- 👩‍💻 Focusing on **Game Development**
+- 👩‍💻 Focusing on **Game Development** and **Data Science**
 - 🌱 Currently learning **Python**, **Pygame**, and **Godot** 
 - 🤜🤛 I’m looking to build and collaborate on any cool projects that contribute to my **learning** and **growth** as a developer 
 

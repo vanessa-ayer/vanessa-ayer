@@ -24,11 +24,13 @@
 ### posting style
 short posts, honest notes, tiny wins
 
+### TryHackMe profile
+[🔗 View my TryHackMe profile](https://tryhackme.com/p/ayer.vanessa)
+
+
 ---
 
 > keep learning. keep building. 🧠
-
-
 
 ---
 

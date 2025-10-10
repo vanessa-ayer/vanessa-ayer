@@ -1,7 +1,9 @@
 ![git-hub-header](https://github.com/vanessa-ayer/vanessa-ayer/assets/135392710/3caed7fb-260f-4d78-8f02-d3ac5ee26990)
 
 
-# hi, i'm vanessa 👋
+# hi, i'm vanessa <img src="https://github.com/user-attachments/assets/a5ce74d6-80a7-49cd-8b4c-4a5f92a9d6fb" width="40" alt="waving hand" />
+
+
 
 **it + cyber learner** mapping my journey through **tryhackme**, **azure**, and experimental **web development** that make learning fun.
 

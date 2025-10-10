@@ -36,6 +36,8 @@ short posts, honest notes, tiny wins
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanessa&theme=github-dark&card_width=1000&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
+
 ### Skills
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -63,7 +65,7 @@ short posts, honest notes, tiny wins
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vanessa&theme=github-dark&card_width=1000&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
+
 
 
 

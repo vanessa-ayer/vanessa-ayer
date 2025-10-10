@@ -3,30 +3,30 @@
 
 # hi, i'm vanessa <img src="https://github.com/user-attachments/assets/a5ce74d6-80a7-49cd-8b4c-4a5f92a9d6fb" width="40" alt="waving hand" />
 
-
-
 **it + cyber learner** mapping my journey through **tryhackme**, **azure**, and experimental **web development** that make learning fun.
 
-### now
+![now](https://img.shields.io/badge/now-000000?style=for-the-badge&labelColor=00ff00)
 - building: **TryHackMe Journey Blog** (w/ terminal theme)
 - labs: linux fundamentals • web exploitation basics • networking
 - side projects: movie-game, compliment-machine, `personal-website`
 
-### roadmap (in progress...)
+![roadmap](https://img.shields.io/badge/roadmap-000000?style=for-the-badge&labelColor=00ff00)
 - certs: `AZ-900` → `A+` → `Network+`→ building towards advanced Azure paths 
 - skills: bash • ssh • ports/services • http basics • windows/linux
 - documentation: small, visual notes and cheat sheets
 
-### featured
+![featured](https://img.shields.io/badge/featured-000000?style=for-the-badge&labelColor=00ff00)
 - **tryhackme-log** — my blog (rooms, xps, key takeaways)
 - **movie-game** — coming soon
 - **compliment-machine** — coming soon
 
 
-### posting style
+![posting_style](https://img.shields.io/badge/posting_style-000000?style=for-the-badge&labelColor=00ff00)
+
 short posts, honest notes, tiny wins
 
-### TryHackMe profile
+![TryHackMe Profile](https://img.shields.io/badge/tryhackme-00ff00?style=for-the-badge&labelColor=000000)
+
 [🔗 View my TryHackMe profile](https://tryhackme.com/p/ayer.vanessa)
 
 

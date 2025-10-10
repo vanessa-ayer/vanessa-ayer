@@ -63,8 +63,7 @@ short posts, honest notes, tiny wins
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 </div>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vanessa-ayer&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=%5BY%20%5DM%20j&mode=weekly&card_width=1020)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vanessa&theme=github-dark&card_width=1000&card_height=200&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
 

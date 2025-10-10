@@ -6,7 +6,7 @@
 **it + cyber learner** mapping my journey through **tryhackme**, **azure**, and experimental **web development** that make learning fun.
 
 ### now
-- building: **TryHackMe Journey Blog** (w/retro terminal theme)
+- building: **TryHackMe Journey Blog** (w/ terminal theme)
 - labs: linux fundamentals • web exploitation basics • networking
 - side projects: movie-game, compliment-machine, `personal-website`
 

@@ -32,7 +32,7 @@ short posts, honest notes, tiny wins
 
 ---
 
-> keep learning. keep building. 
+> keep learning. keep building. 💪
 
 ---
 

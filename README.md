@@ -16,9 +16,9 @@
 - documentation: small, visual notes and cheat sheets
 
 ![featured](https://img.shields.io/badge/featured-000000?style=for-the-badge&labelColor=00ff00)
-- **tryhackme-log** — my blog (rooms, xps, key takeaways)
-- **movie-game** — coming soon
-- **compliment-machine** — coming soon
+- **tryhackme-log** = my blog (rooms, xps, key takeaways)
+- **movie-game** = coming soon
+- **compliment-machine** = coming soon
 
 
 ![posting_style](https://img.shields.io/badge/posting_style-000000?style=for-the-badge&labelColor=00ff00)

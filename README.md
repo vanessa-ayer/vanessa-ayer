@@ -6,9 +6,9 @@
 **it + cyber learner** mapping my journey through **tryhackme**, **azure**, and experimental **web development** that make learning fun.
 
 ![now](https://img.shields.io/badge/now-000000?style=for-the-badge&labelColor=00ff00)
-- building: **TryHackMe Journey Blog** (with styled terminal theme)
+- learning: **TryHackMe Pre-Security Path**
 - labs: linux fundamentals • web exploitation basics • networking
-- side projects: movie-game, compliment-machine
+- side projects: movie-game, compliment-machine, THM terminal design blog (demo only)
 
 ![roadmap](https://img.shields.io/badge/roadmap-000000?style=for-the-badge&labelColor=00ff00)
 - certs: `AZ-900` → `A+` → `Network+`→ building towards advanced Azure paths 
@@ -16,14 +16,13 @@
 - documentation: small, visual notes and cheat sheets
 
 ![featured](https://img.shields.io/badge/featured-000000?style=for-the-badge&labelColor=00ff00)
-- **tryhackme-log** = my blog (rooms, xps, key takeaways)
+- **tryhackme-log** = in progress
 - **movie-game** = coming soon
 - **compliment-machine** = coming soon
 
 
 ![posting_style](https://img.shields.io/badge/posting_style-000000?style=for-the-badge&labelColor=00ff00)
 
-short posts, honest notes, tiny wins
 
 ![TryHackMe Profile](https://img.shields.io/badge/tryhackme-00ff00?style=for-the-badge&labelColor=000000)
 

@@ -26,7 +26,7 @@
 
 ![TryHackMe Profile](https://img.shields.io/badge/tryhackme-00ff00?style=for-the-badge&labelColor=000000)
 
-[🔗 View my TryHackMe profile](https://tryhackme.com/p/ayer.vanessa)
+[🔗 View my TryHackMe profile](https://tryhackme.com/p/vanessa.ayer)
 
 
 ---
